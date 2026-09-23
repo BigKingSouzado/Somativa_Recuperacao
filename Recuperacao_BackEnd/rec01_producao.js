@@ -11,4 +11,4 @@ const horas = 8
 
 const total = caixas * horas
 
-console.log(`Em ${horas} Horas e com ${caixas} Caixas por hora, serao feitas ao final do dia ${total} Caixas`) 
+console.log(`Em ${horas} Horas e com ${caixas} Caixas por hora, serao feitas ao final do dia ${total} Caixas`);
